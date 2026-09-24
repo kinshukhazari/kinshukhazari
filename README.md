@@ -1,25 +1,185 @@
-<h1 align="center">Hi 👋, I'm Kinshuk Hazari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kinshukhazari&label=Profile%20views&color=0e75b6&style=flat" alt="kinshukhazari" /> </p>
+# Hey, I'm Kinshuk Hazari 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinshukhazari" alt="kinshukhazari" /></a> </p>
+### Frontend Developer · Shopify Developer · Creative Technologist
 
-- 🔭 I’m currently working on [Shopify Development](https://github.com/kinshukhazari/shopify-storefront-demo)
+I build things for the web — from polished React interfaces and Shopify storefronts
+to experimental projects with **TouchDesigner** and AI-assisted development.
 
-- 🌱 I’m currently learning **Web Development, Touch Designer**
-
-- 💬 Ask me about **React, Node.Js, Vibe Coding**
-
-- 📫 How to reach me **kinshukhazari@gmail.com**
-
-- ⚡ Fun fact **I just do what needs to be done.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <a href="https://github.com/kinshukhazari">
+    <img src="https://img.shields.io/github/followers/kinshukhazari?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/kinshukhazari">
+    <img src="https://komarev.com/ghpvc/?username=kinshukhazari&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshukhazari&show_icons=true&locale=en" alt="kinshukhazari" /></p>
+---
+
+## 🚀 About Me
+
+```javascript
+const kinshuk = {
+    location: "India 🇮🇳",
+    role: "Frontend Developer",
+    currentlyBuilding: "Shopify storefronts",
+    currentlyLearning: ["Web Development", "TouchDesigner"],
+    askMeAbout: ["React", "Node.js", "Shopify", "Vibe Coding"],
+    mindset: "I just do what needs to be done."
+};
+```
+
+* 🔭 Currently working on **Shopify Development**
+* 🌱 Exploring **Web Development & TouchDesigner**
+* ⚛️ Building with **React, JavaScript & Node.js**
+* 🛍️ Interested in **Shopify & modern commerce experiences**
+* 🤖 Exploring **AI-assisted / vibe coding workflows**
+* 💬 Ask me about **React, Node.js, Shopify or Vibe Coding**
+* 📫 Reach me at **[kinshukhazari@gmail.com](mailto:kinshukhazari@gmail.com)**
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,python,php,c,cpp,cs" />
+</p>
+
+### Frontend & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,html,css,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,android,vscode" />
+</p>
+
+### Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=shopify" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kinshukhazari&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Kinshuk's%20GitHub%20Stats" alt="Kinshuk's GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinshukhazari&layout=compact&hide_border=true&langs_count=8&card_width=350" alt="Kinshuk's Top Languages"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=kinshukhazari&hide_border=true" alt="Kinshuk's GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kinshukhazari&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Profile Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kinshukhazari&theme=github-compact&hide_border=true&area=true" alt="Kinshuk's Contribution Graph"/>
+
+</div>
+
+---
+
+# 💻 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/kinshukhazari/shopify-storefront-demo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kinshukhazari&repo=shopify-storefront-demo&hide_border=true" alt="Shopify Storefront Demo"/>
+</a>
+
+</div>
+
+### 🛍️ Shopify Storefront Demo
+
+A Shopify-focused storefront project exploring modern commerce interfaces, frontend development and storefront experiences.
+
+**Focus:** `Shopify` `Frontend` `JavaScript` `E-commerce`
+
+[View Repository →](https://github.com/kinshukhazari/shopify-storefront-demo)
+
+---
+
+# 📌 More Projects
+
+<div align="center">
+
+<a href="https://github.com/kinshukhazari?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kinshukhazari/kinshukhazari/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> **Note:** The contribution snake requires a small GitHub Actions workflow in this profile repository.
+> If you haven't configured it yet, remove this section until the workflow is added.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:kinshukhazari@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/kinshukhazari">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "I just do what needs to be done."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=100&section=footer" width="100%" alt="Footer"/>
+
+</div>
