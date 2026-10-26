@@ -80,7 +80,17 @@ const kinshuk = {
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/0e75b6/kinshukhazari" alt="Kinshuk's Contribution Chart" width="90%"/>
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinshukhazari/kinshukhazari/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kinshukhazari/kinshukhazari/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kinshukhazari/kinshukhazari/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
